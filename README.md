@@ -12,8 +12,14 @@ Step 1
 Create a project file, and add sierpinski.cpp to the project. Also, look at correct-triangle.html to see an example of correct output. Skim/read the source code for sierpinski.cpp, and try to answer the following questions:
 
 * 1.a) What is the purpose of this program?
+Making triangles.
 * 1.b) Does the program produce output? If so, what kind of output is it, and where does it end up?
-* 1.c) Does the program accept input? If so, what kind of input, and how is it provided?
+No output.
+1.c) Does the program accept input? If so, what kind of input, and how is it provided?
+Yes, in this program is double. It is provided by simulating a bug like jumping
+around to make points in order to create trangles.
+
+
 
 Step 2
 -------
